@@ -23,4 +23,22 @@ Example: Counting coins in your piggy bank
 While the condition is met, keep executing the intended block. If not met, it will skip block.
 
 Things to remember:
-- 
+-  Program can enter the loop
+- Program and exit the loop
+
+# Range
+It's a pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of numbers.
+
+Range(start, stop, step)
+Range(5)
+
+# For Loop
+For each item in a sequence, execute the intended sequence.
+
+for variable_name in sequence:
+    start
+
+## Practice Example 1
+Finding the sum of the first ten numbers (1, 2, ... 10)
