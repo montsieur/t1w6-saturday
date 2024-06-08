@@ -22,4 +22,4 @@ countries.remove("America")
 
 print(countries)
 
-print("Total length of the list", lens(countries))
+print("Total length of the list", len(countries))

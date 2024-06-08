@@ -14,3 +14,13 @@ Like Post Malone describes, "Run away, but we're running in circles".
 Used a repeat a block of code multiple times until a certain condition is met.
 
 DRY Coding Principles
+
+Example: Counting coins in your piggy bank
+
+"if" condition would decide whether or not to run the intended block. Whereas, Loops would decide how many times the user wants to run the intended block.
+
+# While Loop
+While the condition is met, keep executing the intended block. If not met, it will skip block.
+
+Things to remember:
+- 
